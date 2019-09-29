@@ -4,7 +4,7 @@ Hey, I made some stickers. The images are extracted from [Touhou Project 12.3 - 
 
 I used [FrameDisplayMod](https://hisouten.koumakan.jp/wiki/Frametools) program to save sprite images, then [ImageResizer-r133](https://www.adventuregamestudio.co.uk/forums/index.php?topic=47954.0) program to up-scale them.
 
-Finally, I made my own program (this is the reason why repository is created), [ImagePadding](./ImagePadding.dpr) to pad all images to fit 512×512 pixel for Telegram stickers format.
+Finally, I made my own program (this is the reason why repository is created), [ImagePadding](./src/ImagePadding.dpr) to pad all images to fit 512×512 pixel for Telegram stickers format.
 
 I did my best to filter manually and choose the most diverse collection of 240 final stickers (20 characters, ~12 frames each) from thousands of candidates.
 
@@ -17,12 +17,12 @@ I did my best to filter manually and choose the most diverse collection of 240 f
 
 Just for fun, I cropped them and made a collection to use with my [FindTwin](https://klimaleksus.github.io/FindTwin/) engine (refer there for gameplay instructions and source code).
 
-Play the game here:
-https://klimaleksus.github.io/ImagePadding/Touhou-Hisoutensoku-Telegram-Stickers.htm
+**Play the game here:
+https://klimaleksus.github.io/ImagePadding/Touhou-Hisoutensoku-Telegram-Stickers.htm**
 
 ### Download actual ImagePadding program (Win32):
 
-Just [clone](https://github.com/klimaleksus/ImagePadding/archive/master.zip) this repository (but it will include all images, ~5.5 Mb), or refer to Releases page and download clean [ImagePadding1V1.rar](http://klimaleksus.narod.ru/Files/6/ImagePadding1V1.rar) (but this very link is a mirror) from there.
+Just [clone](https://github.com/klimaleksus/ImagePadding/archive/master.zip) this repository (but it will include all images, ~5.5 Mb), ~~or refer to [Releases](https://github.com/klimaleksus/RepeatRemove/releases/tag/Releases) page and~~ download clean [ImagePadding1V1.rar](http://klimaleksus.narod.ru/Files/6/ImagePadding1V1.rar) (but this very link is a mirror) ~~from there~~.
 
 It should be run from the command prompt or a batch file. The help message looks like this:
 
