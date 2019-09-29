@@ -18,7 +18,7 @@ I did my best to filter manually and choose the most diverse collection of 240 f
 Just for fun, I cropped them and made a collection to use with my [FindTwin](https://klimaleksus.github.io/FindTwin/) engine (refer there for gameplay instructions and source code).
 
 **Play the game here:
-https://klimaleksus.github.io/ImagePadding/Touhou-Hisoutensoku-Telegram-Stickers.htm**
+[https://klimaleksus.github.io/ImagePadding/Touhou-Hisoutensoku-Telegram-Stickers.htm](https://klimaleksus.github.io/ImagePadding/Touhou-Hisoutensoku-Telegram-Stickers.htm)**
 
 ### Download actual ImagePadding program (Win32):
 
