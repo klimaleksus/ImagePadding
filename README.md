@@ -22,7 +22,7 @@ Just for fun, I cropped them and made a collection to use with my [FindTwin](htt
 
 ### Download actual ImagePadding program (Win32):
 
-Just [clone](https://github.com/klimaleksus/ImagePadding/archive/master.zip) this repository (but it will include all images, ~5.5 Mb), ~~or refer to [Releases](https://github.com/klimaleksus/RepeatRemove/releases/tag/Releases) page and~~ download clean [ImagePadding1V1.rar](http://klimaleksus.narod.ru/Files/6/ImagePadding1V1.rar) (but this very link is a mirror) ~~from there~~.
+Just [clone](https://github.com/klimaleksus/ImagePadding/archive/master.zip) this repository (but it will include all images, ~5.5 Mb), or refer to [Releases](https://github.com/klimaleksus/RepeatRemove/releases/tag/Releases) page and download clean [ImagePadding1V1.rar](http://klimaleksus.narod.ru/Files/6/ImagePadding1V1.rar) (but this very link is a mirror) from there.
 
 It should be run from the command prompt or a batch file. The help message looks like this:
 
